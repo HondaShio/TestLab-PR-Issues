@@ -1,0 +1,4 @@
+*.exe
+.vscode/
+local debug.cpp
+.idea
